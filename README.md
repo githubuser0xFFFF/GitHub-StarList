@@ -18,6 +18,7 @@
 - [Software Development](#software-development)
 - [Embedded](#embedded)
 - [SiLA](#sila)
+- [3D](#3d-1)
 
 
 ## Qt Libraries
@@ -42,6 +43,9 @@
 - [OculusQt3D](https://github.com/ComputationalPhysics/OculusQt3D) - Example of stereoscopic viewing for Oculus Rift with QML and Qt3D.
 - [QtVtk](https://github.com/nicanor-romero/QtVtk) - An integration between Qt Quick Controls 2 and VTK for 3D rendering
 - [Qt5Ogre21](https://github.com/Ybalrid/Qt5Ogre21) - Qt 5 integration for Ogre 2.1
+- [coin3d](https://github.com/coin3d/coin) - Coin is an OpenGL- and scene graph based, 3D graphics library
+- [Coindesigner](https://github.com/iocroblab/coindesigner) - Coindesigner is a RAD (rapid application development) system to build 3D applications using Coin3D openInventor.
+- [VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) -VulkanSceneGraph (VSG), is a modern, cross platform, high performance scene graph library built upon Vulkan graphics/compute API.
 
 ### QML
 
@@ -77,6 +81,7 @@
 - [QtnProperty](https://github.com/qtinuum/QtnProperty) - Extended properties for Qt5 
 - [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library
 - [pythonqt](https://github.com/MeVisLab/pythonqt) - Dynamic Python binding for Qt Applications
+- [KDToolBox](https://github.com/KDAB/KDToolBox) - KDAB's collection of miscellaneous useful C++ classes and stuff for Qt applications.
 
 ## Qt Applications
 
@@ -88,6 +93,7 @@
 - [Scrite](https://github.com/teriflix/scrite) - QML Crossplatform Screenwriting Software
 - [Qt3DExaminerViewer](https://github.com/HSF/Qt3DExaminerViewer) - A viewer module which offers manipulation and visualization functionalities and tools similar to the OpenInventor/Coin Examiner viewer.
 - [Mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
+- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - PlotJuggler is a Qt + QWT based tool to visualize time series that is fast, powerful and intuitive.
 
 ## Raspberry Pi
 
@@ -106,6 +112,7 @@
 - [Skynet_Robot_Control_Rtos_Ethercat](https://github.com/githubuser0xFFFF/Skynet_Robot_Control_Rtos_Ethercat) - Realtime 6-axis robot controller, based on Qt C++ & OpenCascade & KDL kinematics & HAL 
 - [roboticslibrary](https://github.com/roboticslibrary/rl) - The Robotics Library (RL) is a self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control.
 - [python-urx](https://github.com/SintefManufacturing/python-urx) - Python library to control a robot from 'Universal Robots' http://www.universal-robots.com/ 
+- [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) - A curated list of robotics simulators and libraries.
 
 ## C / C++
 
@@ -117,6 +124,7 @@
 - [tinyformat](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++
 - [libserialport](https://github.com/sigrokproject/libserialport) - Read-only mirror of the official repo at git://sigrok.org/libserialport.
 - [json](https://github.com/nlohmann/json) - JSON for Modern C++ 
+- [boost::archive::json*](https://github.com/briancairl/boost_archive_json) - This library provides JSON input/output archive objects usable with [boost serialization](https://www.boost.org/doc/libs/1_71_0/libs/serialization/doc/serialization.html) module.
 - [Timer](https://github.com/Baduit/Timer) - A simple C++ header-only library to use cross-platform timer functionnalities using only the standard library. 
 - [log4cplus](https://github.com/log4cplus/log4cplus) - log4cplus is a simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. It is modelled after the Java log4j API.
 - [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization  
@@ -148,6 +156,9 @@
 - [Units](https://github.com/LLNL/units) - A run-time C++ library for working with units of measurement and conversions between them and with string representations of units and measurements 
 - [polymorphic_value](https://github.com/jbcoe/polymorphic_value) - A polymorphic value-type for C++
 - [Tiny-utf8 ](https://github.com/DuffsDevice/tiny-utf8) - Tiny-utf8 is a library for extremely easy integration of Unicode into an arbitrary C++11 project.
+- [Backward-cpp](https://github.com/bombela/backward-cpp) - Backward is a beautiful stack trace pretty printer for C++.
+- [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library.
+- [https://github.com/fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. sqlite_orm library allows to create easy data model mappings to your database schema.
 
 ## Python
 
@@ -175,3 +186,6 @@
 - [ot2-controller](https://github.com/FlorianBauer/ot2-controller) - A SiLA 2 compliant controller for an Opentrons OT-2 liquid handling robot. 
 - [panda-controller](https://github.com/FlorianBauer/panda-controller) - A SiLA 2 compliant controller for an Franka Emika Panda robot arm.
 - [sila-orchestrator](https://github.com/FlorianBauer/sila-orchestrator) - A simple, dynamic SiLA 2 client for coordinating various services. 
+
+## 3D
+- [Open3D](https://github.com/isl-org/Open3D) - Open3D is an open-source library that supports rapid development of software that deals with 3D data. 
