@@ -113,6 +113,7 @@
 - [roboticslibrary](https://github.com/roboticslibrary/rl) - The Robotics Library (RL) is a self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control.
 - [python-urx](https://github.com/SintefManufacturing/python-urx) - Python library to control a robot from 'Universal Robots' http://www.universal-robots.com/ 
 - [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) - A curated list of robotics simulators and libraries.
+- [orocos_kdl - Kinematics and Dynamics Library](https://github.com/orocos/orocos_kinematics_dynamics) - Orocos project to supply RealTime usable kinematics and dynamics code, it contains code for rigid body kinematics calculations and representations for kinematic structures and their inverse and forward kinematic solvers.
 
 ## C / C++
 
